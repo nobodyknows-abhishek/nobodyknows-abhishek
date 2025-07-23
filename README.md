@@ -1,9 +1,7 @@
 
 <p align="center">
 
-  Visitor count<br>
-
- ![Visitor Count](https://profile-counter.glitch.me/nobodyknows-abhishek/count.svg)
+ 
 
 </p>
 
