@@ -3,7 +3,7 @@
 
   Visitor count<br>
 
-  <img src="https://profile-counter.glitch.me/nobodyknows-abhishek/count.svg" />
+ ![Visitor Count](https://profile-counter.glitch.me/nobodyknows-abhishek/count.svg)
 
 </p>
 
