@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/f8/4e/d3/f84ed33a99ef9e9e6ff3ccf3c9f98d9f.gif" alt="Coding GIF" width="400"/>
+ 
   <h1>Hi, I'm Abhishek Verma</h1>
   <p>An Aspiring Full Stack Web Developer | AI/ML & Data Enthusiast </p>
 </div>
