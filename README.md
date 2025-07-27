@@ -3,7 +3,7 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=nobodyknows-abhishek&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
-<img align="right" alt="Coding" width="400"  height="200" src="https://i.pinimg.com/originals/f8/4e/d3/f84ed33a99ef9e9e6ff3ccf3c9f98d9f.gif" />
+<img align="right" alt="Coding" width="400"  height="300" src="https://i.pinimg.com/736x/a1/94/b5/a194b56ffc07682f34a16207dfd4b0c3.jpg" />
 
 🔭 **I’m currently working on:**  
 Building **Full Stack Web Applications** using **React + Spring Boot**  
